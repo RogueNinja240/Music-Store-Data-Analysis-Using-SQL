@@ -7,4 +7,4 @@ This project aims to finding various insights and analysis with music store data
 ## Database and Tools
 * My SQL
 
-  Schema is also Attached
+  Schema is also attached
